@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Profile Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Senior+Software+Engineer+%7C+Full-Stack+Developer+%7C+AI+Enthusiast)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnyfreites/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronnycoding)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ronnyfreites)
